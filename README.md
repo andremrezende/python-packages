@@ -70,7 +70,7 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
-![image-20210623115101814](C:\Users\ared\AppData\Roaming\Typora\typora-user-images\image-20210623115101814.png)
+![image-20210623115101814](image-20210623115101814.png)
 
 ## Autor (quem hospedou o projeto no Test Pypi)
 André Rezende
