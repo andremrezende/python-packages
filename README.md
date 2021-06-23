@@ -29,7 +29,7 @@ py -m pip install --user --upgrade setuptools wheel
 - [x] Tenha certeza que o diretório no terminal seja o mesmo do arquivo "setup.py"
 
 ```
-C:\User\Henrique\image-processing-package> py setup.py sdist bdist_wheel
+image-processing-package py setup.py sdist bdist_wheel
 ```
 
 - [x] Após completar a instalação, verifique se as pastas abaixo foram adicionadas ao projeto:
@@ -70,7 +70,7 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
-<img width="auto" src="https://github.com/HenriqueMAP/image-processing-package/blob/master/image-processing-test.png?raw=true">
+![image-20210623115101814](C:\Users\ared\AppData\Roaming\Typora\typora-user-images\image-20210623115101814.png)
 
 ## Autor (quem hospedou o projeto no Test Pypi)
 André Rezende
